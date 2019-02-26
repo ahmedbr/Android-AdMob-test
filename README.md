@@ -8,4 +8,5 @@ NOTE:
 You may use Test ads id provided by Google in the xml file.
 Have a look on these links below:
 https://developers.google.com/admob/android/banner?hl=en-US
+<br />
 https://developers.google.com/admob/android/test-ads
